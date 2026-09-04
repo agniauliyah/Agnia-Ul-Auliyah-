@@ -121,3 +121,12 @@ Pada Test Case 1, dengan panjang 10 cm dan lebar 5 cm, diperoleh luas 50 cm² da
 Pada Test Case 2, dengan panjang 12 cm dan lebar 8 cm, diperoleh luas 96 cm² dan keliling 40 cm.
 
 Hasil pengujian sesuai dengan perhitungan manual, sehingga program dapat berjalan dengan baik.
+
+## I. Hasil Pengujian
+
+Berdasarkan pengujian yang telah dilakukan, program berhasil menghitung luas dan keliling persegi panjang dengan benar.
+
+- **Test Case 1:** Panjang = 10 cm, Lebar = 5 cm → Luas = 50 cm² dan Keliling = 30 cm.
+- **Test Case 2:** Panjang = 12 cm, Lebar = 8 cm → Luas = 96 cm² dan Keliling = 40 cm.
+
+Hasil yang diperoleh sesuai dengan perhitungan manual, sehingga program dapat berjalan dengan baik.
