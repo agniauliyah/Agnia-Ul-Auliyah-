@@ -105,3 +105,9 @@ Lebar = 8 cm
 Luas persegi panjang: 96 cm²
 Keliling persegi panjang: 40 cm
 ```
+## H. Tabel Pengujian
+
+| Test Case | Input | Hasil yang Diharapkan | Hasil Pengujian |
+|---|---|---|---|
+| 1 | Panjang = 10 cm, Lebar = 5 cm | Luas = 50 cm², Keliling = 30 cm | Berhasil |
+| 2 | Panjang = 12 cm, Lebar = 8 cm | Luas = 96 cm², Keliling = 40 cm | Berhasil |
