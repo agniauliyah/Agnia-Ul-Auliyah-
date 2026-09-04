@@ -42,7 +42,7 @@ OUTPUT keliling
 
 SELESAI
 ````
-# D. Flowchart
+## D. Flowchart
 
 ```mermaid
 flowchart TD
@@ -51,3 +51,4 @@ flowchart TD
     C --> D[Hitung keliling = 2 × (panjang + lebar)]
     D --> E[/Output luas dan keliling/]
     E --> F([SELESAI])
+```
