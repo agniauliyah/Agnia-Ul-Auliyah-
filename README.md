@@ -41,8 +41,8 @@ OUTPUT luas
 OUTPUT keliling
 
 SELESAI
-
-## D. Flowchart
+````
+# D. Flowchart
 
 ```mermaid
 flowchart TD
