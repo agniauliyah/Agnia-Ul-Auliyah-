@@ -111,3 +111,13 @@ Keliling persegi panjang: 40 cm
 |---|---|---|---|
 | 1 | Panjang = 10 cm, Lebar = 5 cm | Luas = 50 cm², Keliling = 30 cm | Berhasil |
 | 2 | Panjang = 12 cm, Lebar = 8 cm | Luas = 96 cm², Keliling = 40 cm | Berhasil |
+
+## I. Hasil Pengujian
+
+Berdasarkan pengujian yang telah dilakukan, program berhasil menghitung luas dan keliling persegi panjang dengan benar.
+
+Pada Test Case 1, dengan panjang 10 cm dan lebar 5 cm, diperoleh luas 50 cm² dan keliling 30 cm.
+
+Pada Test Case 2, dengan panjang 12 cm dan lebar 8 cm, diperoleh luas 96 cm² dan keliling 40 cm.
+
+Hasil pengujian sesuai dengan perhitungan manual, sehingga program dapat berjalan dengan baik.
