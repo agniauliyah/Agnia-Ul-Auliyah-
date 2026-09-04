@@ -45,4 +45,21 @@ SELESAI
 ## D. Flowchart
 
 ![Flowchart Luas dan Keliling Persegi Panjang](flowchart.png)
+
+````
+# E. Implementasi Python
+
+Program dibuat menggunakan bahasa pemrograman Python untuk menghitung luas dan keliling persegi panjang.
+
+```python
+# Program Menghitung Luas dan Keliling Persegi Panjang
+
+panjang = float(input("Masukkan panjang persegi panjang: "))
+lebar = float(input("Masukkan lebar persegi panjang: "))
+
+luas = panjang * lebar
+keliling = 2 * (panjang + lebar)
+
+print("Luas persegi panjang:", luas, "cm²")
+print("Keliling persegi panjang:", keliling, "cm")
 ```
