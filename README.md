@@ -16,7 +16,7 @@ K = 2 × (p + l)
 
 Hasil yang ditampilkan berupa nilai luas dan keliling persegi panjang.
 
-# A. Identifikasi Input-Proses-Output
+# B. Identifikasi Input-Proses-Output
 
 | Komponen | Keterangan |
 |---|---|
@@ -24,7 +24,7 @@ Hasil yang ditampilkan berupa nilai luas dan keliling persegi panjang.
 | **Proses** | Menghitung luas dengan rumus `L = p × l` dan keliling dengan rumus `K = 2 × (p + l)` |
 | **Output** | Nilai luas dan keliling persegi panjang |
 
-# B. Pseudocode
+# C. Pseudocode
 
 ```text
 ALGORITMA Menghitung Luas dan Keliling Persegi Panjang
@@ -63,27 +63,7 @@ print("Luas persegi panjang:", luas, "cm²")
 print("Keliling persegi panjang:", keliling, "cm")
 
 ````
-## E. Implementasi Python
-
-Program dibuat menggunakan bahasa pemrograman Python untuk menghitung luas dan keliling persegi panjang.
-## E. Implementasi Python
-
-Program dibuat menggunakan bahasa pemrograman Python untuk menghitung luas dan keliling persegi panjang.
-
-```python
-# Program Menghitung Luas dan Keliling Persegi Panjang
-
-panjang = float(input("Masukkan panjang persegi panjang: "))
-lebar = float(input("Masukkan lebar persegi panjang: "))
-
-luas = panjang * lebar
-keliling = 2 * (panjang + lebar)
-
-print("Luas persegi panjang:", luas, "cm²")
-print("Keliling persegi panjang:", keliling, "cm")
-```
-
-### Hasil yang diharapkan
+Hasil yang diharapkan
 
 ```text
 Luas persegi panjang: 50 cm²
@@ -105,14 +85,14 @@ Lebar = 8 cm
 Luas persegi panjang: 96 cm²
 Keliling persegi panjang: 40 cm
 ```
-## H. Tabel Pengujian
+## G. Tabel Pengujian
 
 | Test Case | Input | Hasil yang Diharapkan | Hasil Pengujian |
 |---|---|---|---|
 | 1 | Panjang = 10 cm, Lebar = 5 cm | Luas = 50 cm², Keliling = 30 cm | Berhasil |
 | 2 | Panjang = 12 cm, Lebar = 8 cm | Luas = 96 cm², Keliling = 40 cm | Berhasil |
 
-## I. Hasil Pengujian
+## H. Hasil Pengujian
 
 Berdasarkan pengujian yang telah dilakukan, program berhasil menghitung luas dan keliling persegi panjang dengan benar.
 
