@@ -42,9 +42,6 @@ OUTPUT keliling
 
 SELESAI
 
-
-**Tapi ada sedikit perbaikan rumus** supaya tidak salah di flowchart. Yang benar:
-
 ```markdown
 
 ## D. Flowchart
