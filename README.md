@@ -69,7 +69,6 @@ Hasil yang diharapkan
 Luas persegi panjang: 50 cm²
 Keliling persegi panjang: 30 cm
 ```
-
 ## F. Test Case
 
 ### Test Case 2
