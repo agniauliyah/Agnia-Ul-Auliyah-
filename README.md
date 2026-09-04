@@ -61,3 +61,33 @@ keliling = 2 * (panjang + lebar)
 
 print("Luas persegi panjang:", luas, "cm²")
 print("Keliling persegi panjang:", keliling, "cm")
+
+## F. Test Case
+
+### Test Case 1
+
+**Input:**
+```text
+Panjang = 10 cm
+Lebar = 5 cm
+```
+
+**Hasil yang diharapkan:**
+```text
+Luas persegi panjang: 50 cm²
+Keliling persegi panjang: 30 cm
+```
+
+### Test Case 2
+
+**Input:**
+```text
+Panjang = 12 cm
+Lebar = 8 cm
+```
+
+**Hasil yang diharapkan:**
+```text
+Luas persegi panjang: 96 cm²
+Keliling persegi panjang: 40 cm
+```
