@@ -62,15 +62,22 @@ keliling = 2 * (panjang + lebar)
 print("Luas persegi panjang:", luas, "cm²")
 print("Keliling persegi panjang:", keliling, "cm")
 
-## F. Test Case
+````
+## E. Implementasi Python
 
-### Test Case 1
+Program dibuat menggunakan bahasa pemrograman Python untuk menghitung luas dan keliling persegi panjang.
 
-**Input:**
-```text
-Panjang = 10 cm
-Lebar = 5 cm
-```
+```pyhton
+# Program Menghitung Luas dan Keliling Persegi Panjang
+
+panjang = float(input("Masukkan panjang persegi panjang: "))
+lebar = float(input("Masukkan lebar persegi panjang: "))
+
+luas = panjang * lebar
+keliling = 2 * (panjang + lebar)
+
+print("Luas persegi panjang:", luas, "cm²")
+print("Keliling persegi panjang:", keliling, "cm")
 
 **Hasil yang diharapkan:**
 ```text
