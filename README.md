@@ -43,6 +43,15 @@ OUTPUT keliling
 SELESAI
 
 
+**Tapi ada sedikit perbaikan rumus** supaya tidak salah di flowchart. Yang benar:
 
-# C. Flowchart
+```markdown
+## D. Flowchart
 
+```mermaid
+flowchart TD
+    A([MULAI]) --> B[/Input panjang dan lebar/]
+    B --> C[Hitung luas = panjang × lebar]
+    C --> D[Hitung keliling = 2 × (panjang + lebar)]
+    D --> E[/Output luas dan keliling/]
+    E --> F([SELESAI])
