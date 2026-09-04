@@ -15,3 +15,11 @@ dan keliling menggunakan rumus:
 K = 2 × (p + l)
 
 Hasil yang ditampilkan berupa nilai luas dan keliling persegi panjang.
+
+# A. Identifikasi Input-Proses-Output
+
+| Komponen | Keterangan |
+|---|---|
+| **Input** | Panjang dan lebar persegi panjang |
+| **Proses** | Menghitung luas dengan rumus `L = p × l` dan keliling dengan rumus `K = 2 × (p + l)` |
+| **Output** | Nilai luas dan keliling persegi panjang |
