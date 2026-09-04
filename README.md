@@ -42,8 +42,6 @@ OUTPUT keliling
 
 SELESAI
 
-```markdown
-
 ## D. Flowchart
 
 ```mermaid
