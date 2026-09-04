@@ -44,10 +44,3 @@ SELESAI
 
 # C. Flowchart
 
-```mermaid
-flowchart TD
-    A([MULAI]) --> B[/Masukkan panjang dan lebar/]
-    B --> C[Hitung luas = panjang × lebar]
-    C --> D[Hitung keliling = 2 × (panjang + lebar)]
-    D --> E[/Tampilkan luas dan keliling/]
-    E --> F([SELESAI])
