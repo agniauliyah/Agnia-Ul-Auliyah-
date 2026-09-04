@@ -23,3 +23,31 @@ Hasil yang ditampilkan berupa nilai luas dan keliling persegi panjang.
 | **Input** | Panjang dan lebar persegi panjang |
 | **Proses** | Menghitung luas dengan rumus `L = p × l` dan keliling dengan rumus `K = 2 × (p + l)` |
 | **Output** | Nilai luas dan keliling persegi panjang |
+
+# B. Pseudocode
+
+```text
+ALGORITMA Menghitung Luas dan Keliling Persegi Panjang
+
+MULAI
+
+INPUT panjang
+INPUT lebar
+
+luas ← panjang × lebar
+keliling ← 2 × (panjang + lebar)
+
+OUTPUT luas
+OUTPUT keliling
+
+SELESAI
+
+# C. Flowchart
+
+```mermaid
+flowchart TD
+    A([MULAI]) --> B[/Masukkan panjang dan lebar/]
+    B --> C[Hitung luas = panjang × lebar]
+    C --> D[Hitung keliling = 2 × (panjang + lebar)]
+    D --> E[/Tampilkan luas dan keliling/]
+    E --> F([SELESAI])
